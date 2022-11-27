@@ -6,7 +6,7 @@
 ### <div align="center">I'm Berzan, junior Python developer 👨‍💻 CS student since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [FindMyMeal](https://github.com/Xoviec/FindMyMeal)  
+- 🔭 I’m currently working on [ZOE](https://github.com/BerzanTas/zoe-voice-assistant) 
   
 
 - 🌱 I’m currently learning REST API  
