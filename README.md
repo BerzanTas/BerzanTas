@@ -76,17 +76,16 @@
 
 <br/>  
 
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BerzanTas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=BerzanTas&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerzanTas&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
@@ -98,15 +97,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=BerzanTas&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
