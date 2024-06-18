@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Berzan, a Computer Science student with a passion for coding and exploration. GitHub is my playground, where I showcase my coding projects and collaborate with like-minded individuals. You'll find a mix of Python 🐍 scripts, data analysis projects 📊, and machine learning experiments 🤖 in my repositories. I'm constantly learning and experimenting, so expect to see a diverse range of projects as I continue to grow. Let's connect and dive into the world of open-source together!  
+### Hey there! 👋 I'm Berzan, a Computer Science student with a passion for coding and exploration. GitHub is my playground, where I showcase my coding projects and collaborate with like-minded individuals. You'll find a mix of Python 🐍 scripts, data analysis projects 📊, and machine learning experiments 🤖 in my repositories. I'm constantly learning and experimenting, so expect to see a diverse range of projects as I continue to grow.  
   
 
 <div align="center">
